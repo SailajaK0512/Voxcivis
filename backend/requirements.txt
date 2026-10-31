@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg[binary]
+PyJWT
+passlib[bcrypt]
+bcrypt<4.1
+scikit-learn
+joblib
+pydantic
